@@ -2,7 +2,7 @@
 - 👀 I’m interested in Game
 - 🌱 I’m currently learning Coding
 - 💞️ I’m looking to collaborate on my self
-- 📫 How to reach me nope 
+- 📫 How to reach me? Nope 
 
 <!---
 Nzrilll/Nzrilll is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
