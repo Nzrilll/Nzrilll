@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Nzrilll
-- 👀 I’m interested in Game
-- 🌱 I’m currently learning Coding
+- 👋 Hi, I’m @Nazril
+- 👀 I’m interested in Game and drawing 
+- 🌱 I’m currently learning desain
 - 💞️ I’m looking to collaborate on my self
 - 📫 How to reach me? Nope 
 
